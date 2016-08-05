@@ -50,7 +50,7 @@
 
 #### 13.GIT log功能
 
-![查看一段代码的GIT_LOG](查看一段代码的GIT_LOG.gif)
+![查看一段代码的GIT_LOG](查看一段代码的GIT LOG.gif)
 
 #### 14.查看数据库功能
 
